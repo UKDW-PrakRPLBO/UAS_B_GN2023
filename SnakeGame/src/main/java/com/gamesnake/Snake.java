@@ -13,11 +13,11 @@ public class Snake extends JFrame {
         add(new Papan());
         setResizable(false);
         pack();
+
         setTitle("Ular Ijo");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
-
 
     public static void main(String[] args) {
         EventQueue.invokeLater(() -> {
