@@ -1,4 +1,4 @@
-# [BOBOT 45 – PARKIR JDBC]
+# [BOBOT 30 – PARKIR JDBC]
 Buatlah sebuah aplikasi sederhana untuk menambah dan menampilkan data parkir motor di suatu gedung tertentu diasumsikan dalam satu hari yang sama.  Aplikasi tersebut menjalankan 3 method sekaligus yaitu:
 1. Tambah Data
 2. Tampilkan Data
